@@ -38,24 +38,17 @@ dsfsdf
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="garyCoffey's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=garyCoffey&show_icons=true&hide_border=true" />
-
-</details>
