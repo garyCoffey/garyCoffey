@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=garycoffey.github.io&style=for-the-badge&url=https://garycoffey.github.io/)](https://garycoffey.github.io/)
 [![Website](https://img.shields.io/website?label=Code-Platoon-Alumni-Association&style=for-the-badge&url=https://master.d2t3u4srvnanyn.amplifyapp.com/)](https://master.d2t3u4srvnanyn.amplifyapp.com/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/garyCoffey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgaryjcoffey&screen_name=garyjcoffey)
+[![Twitter Follow](https://img.shields.io/twitter/follow/garyjcoffey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgaryjcoffey&screen_name=garyjcoffey)
 
 
 - 🔭 I’m currently working on [vue_blogs](https://github.com/garyCoffey/vue_blogs) which is a Nuxt app that I will be using for writing blog posts, posting tutorials, and trying my hand out at developing some simple games.
