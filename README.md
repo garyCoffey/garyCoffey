@@ -40,11 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Platoon Alumni 50/50 Raffle](https://garycoffey.github.io/posts/projects/code-platoon-raffle)
-- [Working from Home](https://garycoffey.github.io/posts/blogs/work-from-home)
-- [Building Your Portfolio on Github Pages](https://garycoffey.github.io/posts/blogs/building-portfolio)
-- [Herp Derp](https://garycoffey.github.io/posts/projects/herp-derp)
-- [My First Programming Experience](https://garycoffey.github.io/posts/blogs/my-first-programing_experience)
+- [My First Programming Experience](https://medium.com/@garyjcoffey/my-first-programming-experience-65ad89b8cad7?source=rss-30012cd9aca4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
