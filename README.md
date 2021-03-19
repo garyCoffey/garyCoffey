@@ -40,7 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Programming Experience](https://medium.com/@garyjcoffey/my-first-programming-experience-65ad89b8cad7?source=rss-30012cd9aca4------2)
+- [My First Programming Experience](https://garyjcoffey.medium.com/my-first-programming-experience-65ad89b8cad7?source=rss-30012cd9aca4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
